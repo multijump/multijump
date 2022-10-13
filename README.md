@@ -50,7 +50,7 @@ conquering Mount Everest. I know I can do it.
   <a href="https://github.com/multijump/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=multijump&count_private=true&show_icons=true&custom_title=MultiJump's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=multijump&count_private=true&show_icons=true&custom_title=MultiJump's%20Github%20Status&theme=vision-friendly-dark"
     />
    </a>
 
