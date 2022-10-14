@@ -60,6 +60,25 @@ conquering Mount Everest. I know I can do it.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=multijump&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
+<!--p align="center">
+  <a href="https://github.com/multijump/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=multijump&layout=compact&theme=vision-friendly-dark" />
+  </a>
+</p-->
+<p align="center">
+  <a href="https://github.com/multijump/miamioh">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=multijump&repo=miamioh&layout=compact&theme=cobalt" />
+  </a>
+  <a href="https://github.com/multijump/real-estate-tami-pardee">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=multijump&repo=real-estate-tami-pardee&layout=compact&theme=cobalt" />
+  </a>
+</p>
 
 - 📫 How to reach me </br>
     Email: multijump2022@gmail.com </br>
