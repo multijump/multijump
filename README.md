@@ -1,27 +1,11 @@
-### Hi there 👋 I'm a senior Full-stack Blockchain/dApp Engineer. 
-
-
-<!--
-**multijump/multijump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there 👋 I'm a senior Full-stack Engineer. 
 
 
 😄 **Pronouns**: MultiJump
 
-🔭 **I’m currently working on**: Defi, Dapp, Crypto Lending(Compound, AAVE), NFT marketplace(Opensea, LooksRare), DEX(Uniswap v2,v3), Stake and Farming(Fork OlympusDAO, PancakeSwap)  and other Ecommerce sites (Real Estate, Banking, Card processing, Payment Gateway, etc).
+🔭 **I’m currently working on**: Defi, Dapp, Crypto Lending(Compound, AAVE), NFT marketplace(Opensea, LooksRare), DEX(Uniswap v2,v3) and other Ecommerce sites (Real Estate, Banking, Card processing, Payment Gateway, etc).
 
-🌱 **I’m currently learning**: Right now I'm obsessed with **Solidity**, **Web3** and **Rust**.
+🌱 **I’m currently learning**: I’m currently learning everything 🤣
 
 👯 **I’m looking to collaborate on**: open-source projects, StackOverflow knowledge, the core of any amazing frameworks,
 overthrowing capitalism.
