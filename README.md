@@ -41,14 +41,14 @@ conquering Mount Everest. I know I can do it.
   <a href="https://github.com/multijump/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=multijump&show_icons=true&custom_title=MultiJump's%20Github%20Status&theme=vision-friendly-dark"
+      src="https://github-readme-stats-zeta-two-28.vercel.app/api?username=multijump&show_icons=true&custom_title=MultiJump's%20Github%20Status&theme=vision-friendly-dark"
     />
    </a>
 
   <a href="https://github.com/multijump/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=multijump&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats-zeta-two-28.vercel.app/api/top-langs/?username=multijump&layout=compact&theme=vision-friendly-dark" />
   </a>  
 </p>
 <!--p align="center">
@@ -62,12 +62,12 @@ conquering Mount Everest. I know I can do it.
   <a href="https://github.com/multijump/miamioh">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=multijump&repo=miamioh&layout=compact&theme=cobalt" />
+      src="https://github-readme-stats-zeta-two-28.vercel.app/api/pin/?username=multijump&repo=miamioh&layout=compact&theme=cobalt" />
   </a>
   <a href="https://github.com/multijump/real-estate-tami-pardee">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=multijump&repo=real-estate-tami-pardee&layout=compact&theme=cobalt" />
+      src="https://github-readme-stats-zeta-two-28.vercel.app/api/pin/?username=multijump&repo=real-estate-tami-pardee&layout=compact&theme=cobalt" />
   </a>
 </p>
 
