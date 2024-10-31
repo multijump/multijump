@@ -17,7 +17,7 @@ conquering Mount Everest. I know I can do it.
 
 # My Stats :chart_with_upwards_trend:
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/multijump/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=multijump&margin-w=5" alt="multijump" />
   </a>
 </p>
