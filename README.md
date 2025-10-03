@@ -6,26 +6,26 @@ I’m a **Data Engineer** with a strong background in **full-stack and blockchai
 
 ## 🔧 What I Do
 
-Data Engineering: Building reliable ETL/ELT pipelines, data lakes, and warehouse solutions.
-Big Data & Analytics: Working with distributed systems to process and visualize large datasets.
-Cloud & DevOps: Deploying scalable data solutions in cloud environments with CI/CD best practices.
-Blockchain Background: Experienced in Ethereum, smart contracts, and decentralized application architecture.
+* Data Engineering: Building reliable ETL/ELT pipelines, data lakes, and warehouse solutions.
+* Big Data & Analytics: Working with distributed systems to process and visualize large datasets.
+* Cloud & DevOps: Deploying scalable data solutions in cloud environments with CI/CD best practices.
+* Blockchain Background: Experienced in Ethereum, smart contracts, and decentralized application architecture.
 
 
 ## 🛠️ Tech Stack
 
-Data Engineering: Python, SQL, Apache Spark, Airflow, dbt, Kafka
-Databases: PostgreSQL, MySQL, MongoDB, Redis
-Cloud: AWS (S3, Redshift, Lambda), GCP, Azure
-Blockchain (Past Experience): Solidity, Web3.js, Ethereum, Hardhat, Truffle
-Other: Docker, Kubernetes, GitHub Actions
+* Data Engineering: Python, SQL, Apache Spark, Airflow, dbt, Kafka
+* Databases: PostgreSQL, MySQL, MongoDB, Redis
+* Cloud: AWS (S3, Redshift, Lambda), GCP, Azure
+* Blockchain (Past Experience): Solidity, Web3.js, Ethereum, Hardhat, Truffle
+* Other: Docker, Kubernetes, GitHub Actions
 
 
 ## 🌱 What I’m Working On
 
-Optimizing data pipelines for AI/ML applications
-Expanding my expertise in real-time data processing
-Exploring use cases where blockchain and data engineering intersect
+* Optimizing data pipelines for AI/ML applications
+* Expanding my expertise in real-time data processing
+* Exploring use cases where blockchain and data engineering intersect
 
 
 # My Stats :chart_with_upwards_trend:
