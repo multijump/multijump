@@ -1,19 +1,26 @@
-### Hi there 👋 I'm a senior Full-stack Engineer. 
+### 👋 Hi, I’m a Data Engineer | Former Blockchain Developer 
 
 
-😄 **Pronouns**: MultiJump
+I’m a **Data Engineer** with a strong background in **full-stack and blockchain (dApp) development**. My career journey started in building decentralized applications, smart contracts, and scalable web platforms. Today, I focus on designing and maintaining robust data pipelines, enabling advanced analytics, and supporting AI/ML use cases.
 
-🔭 **I’m currently working on**: Defi, Dapp, Crypto Lending(Compound, AAVE), NFT marketplace(Opensea, LooksRare), DEX(Uniswap v2,v3) and other Ecommerce sites (Real Estate, Banking, Card processing, Payment Gateway, etc).
+🔧 **What I Do**
+Data Engineering: Building reliable ETL/ELT pipelines, data lakes, and warehouse solutions.
+Big Data & Analytics: Working with distributed systems to process and visualize large datasets.
+Cloud & DevOps: Deploying scalable data solutions in cloud environments with CI/CD best practices.
+Blockchain Background: Experienced in Ethereum, smart contracts, and decentralized application architecture.
 
-🌱 **I’m currently learning**: I’m currently learning everything 🤣
+🛠️ **Tech Stack**
+Data Engineering: Python, SQL, Apache Spark, Airflow, dbt, Kafka
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Cloud: AWS (S3, Redshift, Lambda), GCP, Azure
+Blockchain (Past Experience): Solidity, Web3.js, Ethereum, Hardhat, Truffle
+Other: Docker, Kubernetes, GitHub Actions
 
-👯 **I’m looking to collaborate on**: open-source projects, StackOverflow knowledge, the core of any amazing frameworks,
-overthrowing capitalism.
+🌱 **What I’m Working On**
+Optimizing data pipelines for AI/ML applications
+Expanding my expertise in real-time data processing
+Exploring use cases where blockchain and data engineering intersect
 
-💬 **Ask me about**: DApp development, Fintech, Real Estate development, Bitcoin Lightning
-
-⚡ **Fun fact**: I love a challenge to new area, and I love camping and hiking and still haven't given up on
-conquering Mount Everest. I know I can do it.
 
 # My Stats :chart_with_upwards_trend:
 <p align="left">
