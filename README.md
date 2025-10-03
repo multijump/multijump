@@ -1,4 +1,4 @@
-### 👋 Hi, I’m a Data Engineer | Former Blockchain Developer 
+## 👋 Hi, I’m a Data Engineer | Former Blockchain Developer 
 
 
 I’m a **Data Engineer** with a strong background in **full-stack and blockchain (dApp) development**. My career journey started in building decentralized applications, smart contracts, and scalable web platforms. Today, I focus on designing and maintaining robust data pipelines, enabling advanced analytics, and supporting AI/ML use cases.
